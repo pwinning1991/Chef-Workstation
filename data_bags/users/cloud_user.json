@@ -1,0 +1,10 @@
+{
+	"id": "cloud_user",
+	"password": "$1$/t3utWyx$.KRm7mbdscVFw1NqJIjQj1",
+	"groups": ["wheel", "dev"],
+	"ssh_keys": [
+		"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDjZY6N+H4jFGtvOU49UbSG95s30qIMoCGNnvfnWxpUO70QHKrRXwP+MPf50pNvyb9yQKRMcczDMqp2lk8HMEpZH44TCIymjO80n1Wztpc2A3QKT/l04AA4nbRXOucnW9rSiYD2a0exR8KUtX3WBDLlhnDe0s2q/FlR+6Hiugu7C/D33GQaQu/0oZMyUJHKkEF1e5afC/8kjJmEJYovmTQmEF8ODZ9K23Q2bICIcbd11dqpnyt4p1Cf9A4ZJz0VG2mD8JGHwds9Ir5zCGpPxGbFZp/QkqJuV9lRX48mwXdzmF1QyL1zQI+GOPT3vRPXS16Ds/OgBu4f+QE2/xFl4Ltl cloud_user@ftcpjw2c.mylabserver.com"
+		],
+	"shell": "/bin/bash"
+
+}

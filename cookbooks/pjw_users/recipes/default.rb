@@ -1,4 +1,2 @@
-user "jenkins" do
-  comment "a user for CI/CD"
-  password "secure_password"
-end
+users_manage "wheel"
+users_manage "ci"
